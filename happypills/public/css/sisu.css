@@ -1,0 +1,104 @@
+header{
+    width: 100%;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: auto;
+    background: rgba(55, 55, 65, 0.667);
+    padding: 12px;
+}
+i,a{
+    transform: translate(0,0);
+    font-size: 18px;
+}
+i,.nav_a,span,img,li{
+    background: transparent;
+    
+    transition: all 0.5s ease;
+}
+li{
+    text-shadow: 2px 1px 3px #1ad401;
+    color: rgba(24, 23, 27, 0.896);
+    margin-left: 150px;
+    display: inline;
+} 
+.nav_a:hover{
+    top:-6px;
+    transition: .5s;
+   font-size:18px;
+   color: rgba(24, 23, 27, 0.896);
+}
+.nav_a{
+    font: size 28px;
+    text-shadow: 2px 1px 3px #00acacb7;
+    color: rgba(24, 23, 27, 0.896);
+    font-weight: bold;
+    outline:none;
+    text-decoration: none;
+    position: relative;
+    margin-left: 18px;
+    margin-bottom: 18px;
+}
+html body .antialiased {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background: url(/css/medin.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.btn:hover {
+    background-color: #0056b3;
+}
+.search-container{
+    float: right;
+}
+.search-container input[type=text]{
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border:none;
+}
+.search-container button{
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+.background-conteiner{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.image{
+    position:absolute;
+}
