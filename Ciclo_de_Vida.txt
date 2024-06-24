@@ -1,0 +1,42 @@
+_*Etapa 1: Planificación*_
+• { Alcance del Proyecto }: Nivel Nacional
+• { Líderes del Proyecto }: Amato Santiago, Luna Dylan, Romero Mauro
++.• { Problema y Oportunidad }:
+El problema que visualizamos es que las distribuidoras tienen un favoritismo por conocidos o familiares dándole la peor o nula parte de los fármacos a las empresas pequeñas. Por ende nuestro sistema está orientado a no distinguir ningúna empresa grande de la pequeña (entregando mercadería a las empresas sin importar su tamaño) 
+• { Objetivos }:
+Lograr la creación de una empresa con marca reconocible, construir e instruir una buena red de transporte con horarios específicos, facilitar el transporte de medicamentos en el país, lucrarse
+• { Materiales }:
+– Oficinas: Edificio en dirección () 
+– Mano de obra: Conductores, operarios de maquinaria y administradores
+– Mercancía: Medicamentos varios sacados de Laboratorios o exportados
+
+_*Etapa 2: Análisis de los requisitos*_
+• Para la página se requiere:
+– Un Login, para que los usuarios puedan hacer sus pedidos y ser reconocidos, además de poder acceder a beneficios VIP y ofertas mensuales
+– Una interfaz cómoda y fácil de usar
+– Una pestaña de Noticias, para notificar de problemas, ofertas y más
+– Una pestaña acerca de nosotros, donde se explique el funcionamiento de la empresa y se detallen los datos legales que nos ameritan
+– Un carrito donde se puedan guardar distintos productos para comprar, con la opción de aumentar cantidades o eliminarlas una o todas
+– Una pestaña de catálogo con imágenes sobre el producto, sus nombres, datos relevantes, la cantidad de existencias y su precio, naturalmente mediante el uso de una base de datos y sus respectivas tablas
+– Una pestaña principal con anuncios relevantes y propaganda de la empresa
+– Una barra de navegación para encontrar fácilmente los productos
+– Cuentas de Administración para la empresa en caso se requieran cambios
+• Para los empleados se requieren:
+– Personas con carnet de conducir
+– Conocimiento sobre la administración de páginas web y base de datos
+– Personas capaces físicamente para el descargo de los productos
+
+_*Etapa 3: Diseño y Prototipo*_
+• Los diagramas hechos en clase
+
+_*Etapa 4: Desarrollo del Software*_
+• La página que estamos haciendo
+
+_*Etapa 5: Pruebas*_
+• La División y unión de distintas partes del software para crear un todo
+
+_*Etapa 6: Lanzamiento*_
+• Ponerlo a manos de usuarios reales ~(Aún no hecho)~
+
+_*Etapa 7: Operaciones y Mantenimiento*_
+• El programa se adaptará mediante las necesidades que vayan surgiendo , añadir más funciones y corregir errores detectados por usuarios ~(Aún no hecho)~
