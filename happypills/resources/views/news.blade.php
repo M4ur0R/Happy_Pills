@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{asset('/css/sisu.css')}}">
-    <title>Bienvenido a Happy Pils</title>
+    <title>Bienvenido a Happy Pills</title>
     <style>
         body{
 
@@ -38,8 +38,7 @@
     </style>
 </head>
 <header>
-    <nav > 
-        <img src="" class="imagen">
+    <nav> 
         <li class="nav_li"><span><i class="fas fa-home"></i><a href="/welcome" class="nav_a">Home</a></span></li>
         <li class="nav_li"><span><i class="fas fa-user-friends"></i><a href="/nosotros" class="nav_a">About us</a></span></li>
         <li class="nav_li"><span><i class="fas fa-solid fa-car-side"></i><a href="/productos" class="nav_a">Products</a></span></li>

@@ -66,14 +66,12 @@
         
         <div class="product">
             <h2>Informacion General</h2>
-            <p>Somos una jhedasjlfhalfkjñghoiwadhfgihgfhjpowtuioeuhklfjg89ryo
-                iwrjgnuboirgjilerhguowhrtyoiehrf
-                gokjhestiyhjhedasjlfhalfkjñghoiwadhfgihgfhjpowtuioeuhklfjg89r
-                yoiwrjgnuboirgjilerhguowhrtyoieh
-                rfgokjhestiyhjhedasjlfhalfkjñghoiwadhfgihgfhjpowtuioeuhklfjg8
-                9ryoiwrjgnuboirgjilerhguowhrtyoi
-                ehrfgokjhestiyhjhedasjlfhalfkjñghoiwadhfgihgfhjpowtuioeuhklfj
-                g89ryoiwrjgnuboirgjilerhguowhrty</p>
+            <p>Somos una pequeña empresa fundada en este mismo año dedicada
+                a la venta masiva de medicamentos para brindar la mejor calidad
+                a farmacias, laboratorios,escuelas,entre otros centros publicos.
+               Nuestra visión es aspirar a ser la distribuidora de fármacos más confiable
+               y respetada en el país, liderando imnovación y excelencia en el servicio. 
+            </p>
 
             <p><strong>Creadores:</strong> Amato Santiago, Luna Dylan, Romero Mauro</p>
             <p><strong>Diseñador del Logo:</strong> Ramiro Lob</p>

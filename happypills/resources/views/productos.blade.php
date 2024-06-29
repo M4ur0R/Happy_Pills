@@ -33,12 +33,14 @@
         .product p {
             color: #666;
         }
+        nav{
+            padding:-6px;
+        }
     </style>
 </head>
 <header>
     <!-- Nav para moverse entre las paginas -->
     <nav>
-        <img src="" class="imagen">
         <li class="nav_li"><span><i class="fas fa-home"></i><a href="/welcome" class="nav_a">Home</a></span></li>
         <li class="nav_li"><span><i class="fas fa-user-friends"></i><a href="/nosotros" class="nav_a">About us</a></span></li>
         <li class="nav_li"><span><i class="fas fa-solid fa-car-side"></i><a href="/productos" class="nav_a">Products</a></span></li>
@@ -48,8 +50,8 @@
         <div class="search-container">
             <input type="text" placeholder="Buscar...">
             <button type="submit" value="confirm"><i class="fas fa-search"></i></button>
-        <div class="sun">
-        <li class="nav_li"><span><i class="fas fa-solid fa-sun"></i></span></li>
+        <!-- <div class="sun"> -->
+        <!-- <li class="nav_li"><span><i class="fas fa-solid fa-sun"></i></span></li> -->
     </div>
 
         
