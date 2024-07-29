@@ -15,7 +15,7 @@
         .container {
             width: 80%;
             margin: auto;
-            padding-top: 50px;
+            /* padding-top: 50px; */
         }
         h1 {
             color: #333;
@@ -33,9 +33,6 @@
         .product p {
             color: #666;
         }
-        nav{
-            padding:-6px;
-        }
     </style>
 </head>
 <header>
@@ -46,7 +43,7 @@
         <li class="nav_li"><span><i class="fas fa-solid fa-car-side"></i><a href="/productos" class="nav_a">Products</a></span></li>
         <li class="nav_li"><span><i class="fas fa-solid fa-wrench"></i><a href="/news" class="nav_a">News</a></span></li>
         <div class="sun">
-        <li class="nav_li"><span><i class="fas fa-solid fa-sun"></i></span></li>
+        
         <div class="search-container">
             <input type="text" placeholder="Buscar...">
             <button type="submit" value="confirm"><i class="fas fa-search"></i></button>
@@ -54,12 +51,10 @@
         <!-- <li class="nav_li"><span><i class="fas fa-solid fa-sun"></i></span></li> -->
     </div>
 
-        
-    </div>
     </nav>
 </header>
 <body>
-<script src="refacciones.js"></script>
+<!-- <script src="refacciones.js"></script> -->
     <div class="container">
         <h1>Nuestros Productos</h1>
         

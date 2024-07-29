@@ -58,10 +58,7 @@
         <div class="product">
             <h1><strong>Titulo de la noticia</strong></h1>
             <h2>Sub titulo de la noticia</h2>
-            <p>kriogjnskldngeodkmvlkaejgpokajdgjkelñkgjefkgjklñdjgñklajgklglkjefkgjsfklñgjdlkfjg
-                f,olsjjwndkgljekgjeflkgnsdfklgmklasfgnkljfjgnklfjgkojefgkjefijogjfjgioefjgfgkjng
-                kdfjiosdjgdgjklsfngkfjgklmnfklgbndfklbfdkljbkldfjbkldfjbkfbnkldfnbkldfjbkdfjbklj
-                ropdfgjsladkjgvlkdfjbklsdfjbpldfkb
+            <p>Proximamente habrá noticias
             </p>
             <p><a href="">Enlace a la pestaña</a></p>
         </div>
