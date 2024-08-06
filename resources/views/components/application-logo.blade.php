@@ -1,0 +1,1 @@
+<a href="/" ><figure><img src="/happy.jpg" width="30px"  height= "auto" style="border-radius: 100px"></figure></a>
