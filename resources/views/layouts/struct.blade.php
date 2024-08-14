@@ -10,6 +10,5 @@
 
     @yield('content')
 
-    <script src="/JavaScript/dinamic.js"></script>
 </body>
 </html>

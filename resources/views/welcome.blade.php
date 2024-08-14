@@ -15,7 +15,11 @@
 
     </head>
     <body class="antialiased">
-        <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
+        <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white"> 
+        <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    </link>
     <style>
         title{
             text-align: center; 
@@ -58,7 +62,18 @@
         <h1>Bienvenido a Happy Pills</h1>
         <p>Tu destino confiable para todos tus productos farmacéuticos.</p>
         <a href="/productos" class="btn">Ver nuestros productos</a>
-    </div>
-    
+    </div > 
+    <center>
+        <div id="spinner">
+        <p class="spinner-border ms-auto" aria-hidden="true">
+        </div>
+        <p id="ACa" >
+    </center>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+        
+        </script>
+    <script src="/logic.js">
+
+    </script>
 </body>
 @endsection
